@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arham%20Jaffer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20PCB%20Designer%20%7C%20IoT%20Developer&descAlignY=60&descColor=a0aec0" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=⚡+Embedded+Systems+%26+IoT+Developer;🔌+PCB+Designer+%7C+KiCad+Expert;🎓+NUST-PNEC+Electrical+Engineering+(CGPA%3A+3.32);🚀+Building+Smart+Hardware+from+Karachi%2C+Pakistan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=⚡+Embedded+Systems+%26+IoT+Developer;🔌+PCB+Designer+%7C+KiCad+Expert;🎓+NUST-PNEC+Electrical+Engineering;🚀+Building+Smart+Hardware+from+Karachi%2C+Pakistan)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-jaffer-7911a3308)
