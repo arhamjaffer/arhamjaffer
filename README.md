@@ -56,15 +56,6 @@ EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 > Click any project card to open its repository ↓
 
 <div align="center">
-
-<a href="https://github.com/arhamjaffer/smart-safety-helmet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arhamjaffer&repo=smart-safety-helmet&theme=tokyonight&hide_border=true&title_color=e7352c&icon_color=e7352c" />
-</a>
-&nbsp;
-<a href="https://github.com/arhamjaffer/smart-meter-monitoring">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arhamjaffer&repo=smart-meter-monitoring&theme=tokyonight&hide_border=true&title_color=e7352c&icon_color=e7352c" />
-</a>
-
 </div>
 
 <br/>
@@ -116,7 +107,7 @@ EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=arhamjaffer&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamjaffer&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+
 
 </div>
 
