@@ -39,15 +39,6 @@ EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 
 > Click any project card to open its repository ↓
 
-<div align="center">
-
-<a href="https://github.com/arhamjaffer/arduino-nano-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arhamjaffer&repo=arduino-nano-clone&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-&nbsp;
-<a href="https://github.com/arhamjaffer/auto-cutoff-battery-charger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arhamjaffer&repo=auto-cutoff-battery-charger&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
-</a>
 
 </div>
 
@@ -55,7 +46,7 @@ EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🧠 Arduino Nano Clone](https://github.com/arhamjaffer/arduino-nano-clone) | Custom ATmega328P-based Nano clone — full schematic, footprint assignment, DRC-clean 29-component layout | KiCad 10.0 |
+| [🧠 Arduino Nano Clone](https://github.com/arhamjaffer/-Arduino-Nano-Clone) | Custom ATmega328P-based Nano clone — full schematic, footprint assignment, DRC-clean 29-component layout | KiCad 10.0 |
 | [🔋 Auto Cut-Off Battery Charger](https://github.com/arhamjaffer/auto-cutoff-battery-charger) | PCB-based charging circuit with automatic cut-off; optimized for safe long-term operation | KiCad · Circuit Design |
 
 ---
