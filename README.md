@@ -25,11 +25,10 @@ EDUCATION   : B.E. Electrical Engineering @ NUST-PNEC (Graduating Spring 2027)
 ROLE        : Power System Research Lab Intern | Event Director @ NUST
 COMPANY     : GenXi Tech Solutions (Co-Founder)
 CURRENTLY   : Building a Smart Safety Helmet — ESP32 + GPS + Impact Detection
-FOCUS       :
-  - IoT Hardware Development & Prototyping
-  - PCB Design (KiCad) — Schematic to Fabrication-Ready Gerbers
-  - Embedded Systems: ESP32, Arduino, Raspberry Pi
-  - Smart Automation & Web Dashboards
+FOCUS       : - IoT Hardware Development & Prototyping
+              - PCB Design (KiCad) — Schematic to Fabrication-Ready Gerbers
+              - Embedded Systems: ESP32, Arduino, Raspberry Pi
+              - Smart Automation & Web Dashboards
 EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 ```
 
