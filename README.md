@@ -48,6 +48,8 @@ EMAIL       : arhamkaimkhani1949@gmail.com  ← open for collabs & projects
 | [🧠 Arduino Nano Clone](https://github.com/arhamjaffer/-Arduino-Nano-Clone) | Custom ATmega328P-based Nano clone — full schematic, footprint assignment, DRC-clean 29-component layout | KiCad 10.0 |
 | [🔋 Auto Cut-Off Battery Charger](https://github.com/arhamjaffer/auto-cutoff-battery-charger) | PCB-based charging circuit with automatic cut-off; optimized for safe long-term operation | KiCad · Circuit Design |
 | [🔢Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs](https://github.com/arhamjaffer/Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs) | Two-digit digital counter designed using 7490 decade counter ICs and 7447 BCD-to-seven-segment decoder drivers for counting from 00 to 99. | KiCad · Circuit Design |
+| [🌐IR-Sensor-Module-PCB](https://github.com/arhamjaffer/IR-Sensor-Module-PCB) | Custom IR Sensor Module PCB designed in KiCad for object detection and embedded system applications. | KiCad · Circuit Design |
+
 ---
 
 ## 📡 IoT Projects
